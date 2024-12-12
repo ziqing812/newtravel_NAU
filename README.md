@@ -1,4 +1,4 @@
-# newtravel_NAU
+# newtravel_NAU Student Program
 ## Tourism Management System Based on Springboot
 
 This tourism management system based on Springboot is mainly developed in Java language, utilizing many advantages of the Springboot framework, such as automatic configuration, built-in servers, rich plugins, and out-of-the-box functionality. 
